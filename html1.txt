@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>MY WEBSITE</title>
+	<link rel="stylesheet" type="text/css" href="My website.css">
+</head>
+<body>
+    <div class="Mywebsite">
+		<div class="lead">
+			<h1>MY WEBSITE</h1>
+			<p>With a <strong>Flexible</strong>Layout</p>
+		</div>
+    	
+    </div>
+
+<div class="Links">
+	<ul>
+		<a href="#"></a><li><strong>Home</strong></li>
+		<a href="#"></a><li><strong>Contact</strong></li>
+		<a href="#"></a><li><strong>About</strong></li>
+		<a href="#"></a><li><strong>Gallery</strong></li>
+	</ul>		
+</div>
+
+<div class="body">
+	<div class="right">
+		<div class="Titleheading"></div>
+		<h1><strong>About Me</strong></h1>
+		<p>Photo of Me:</p>
+		<div><img src="me.jpeg.jpg" alt="Photo of Me" height="20%vh" width="20%"></div>
+		<p>I am a lady who is so passionate about fashion and technology. My goal is to become a tech enterpreneur to help promote and market diverse fashion in our world today.</p>
+		<h4>Ghana Trendy Cultural Fashion For Women</h4>
+		<p>Ghana Cultural fashion is known for its use of vibrant colors with elegant prints for its cultutal attires, and nowhere is this joyful approach to dressing more apparent than in Accra, the capital city of the country. The fashion hub is bursting with local artisans and designers, all whom specialize in reinventing traditional kente or fugu clothes with a modern twist.</p>
+		<img src="kente1.jpeg.png"><br><br>
+		<img src="kente2.jpeg.jpg"><br><br>
+		<img src="kente3.jpeg.jpg"><br><br>
+     
+
+	</div>
+
+	<div class="left">
+		<div class="Titleheading1"></div>
+		<h2>Cultural Fashion in Ghana</h2>
+		<p>A display of some cultural fashion in Ghana with a touch of modernity.</p>
+		<img src="jeans5.jpeg" height="20%vh" width="20%">
+		<p>Fashion culture is not just imitating peers, but to be 'in fashion' capturing the mood and the fashion culture of the times.</p>
+
+		<h2>Fugu Styles With a Modern Twist</h2>
+		<p>The fashion industry never sleeps. With each year that comes, we witness new talents create pieces that we just can’t help but add to our shopping list–and we want you to do the same.</p>
+		<img src="fugu.jpeg" height="20%vh" width="20%">
+		<p>Fugu was introduced in Ghana by the Moshies from Burkino Faso and by the Hausas from northern Nigeria, both of who migrated into Northern Ghana.  The name Fugu comes from the Moshie word for cloth.  The Dagombas call the garment Bingba, and in the south they call it Batakari.</p>
+		<p>The Ghana Batakari smocks are heavy strips of strong hand-woven fabric, which come in various colors and may be augmented with authentic traditional designs.  We bring these to you directly from the Northern Region of Ghana, West Africa where Hausa, Dagomba, and Dagbani men have for centuries, maintained their proud heritage, wearing this same garment. You embrace the strength of tradition when you wear these African clothes, that reflect the great cultures of Africa.</p>
+	</div>
+</div>
+
+
+	
+</div>
+
+</div>
+
+<div class="Footer"> <p><strong>© POWERED BY TECHNE CODA TRAIN</strong></p></div> 	
+</body>
+</html>
